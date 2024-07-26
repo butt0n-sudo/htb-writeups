@@ -1,0 +1,1 @@
+# Nmap 7.95 scan initiated Fri Jul 26 03:15:39 2024 as: nmap -p23 -sC -sV -oN scans/nmap_telnet 10.129.52.212

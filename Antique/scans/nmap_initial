@@ -1,0 +1,1 @@
+# Nmap 7.95 scan initiated Fri Jul 26 03:10:02 2024 as: nmap -sC -sV -oN CTF/HTB/Antique/scans/nmap_initial 10.129.52.212
